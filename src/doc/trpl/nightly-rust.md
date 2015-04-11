@@ -47,5 +47,5 @@ If you're one of those people, please check out the documentation on [building
 Rust from Source](https://github.com/rust-lang/rust#building-from-source), or
 [the official binary downloads](http://www.rust-lang.org/install.html). And we
 promise that this method will not be the way to install Rust forever: it's just
-the easiest way to keep people updated while Rust is in its alpha state.
+the easiest way to keep people updated while Rust is in its beta state.
 
